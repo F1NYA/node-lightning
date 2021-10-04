@@ -22,7 +22,7 @@
     "prepublish": "npm run build"
   },
   "dependencies": {
-    "@node-lightning/core": "^0.22.1",
+    "@node-lightning/core": "^0.23.0",
     "@node-lightning/wire": "^0.22.1"
   },
   "publishConfig": {
