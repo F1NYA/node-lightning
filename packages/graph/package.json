@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "@node-lightning/core": "^0.22.1",
-    "@node-lightning/wire": "^0.22.1"
+    "@node-lightning/wire": "^0.23.0"
   },
   "publishConfig": {
     "access": "public"
