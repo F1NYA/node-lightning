@@ -18,7 +18,7 @@
     "prepublish": "npm run build"
   },
   "dependencies": {
-    "zeromq": "^5.2.0"
+    "zeromq": "^5.2.5"
   },
   "publishConfig": {
     "access": "public"
