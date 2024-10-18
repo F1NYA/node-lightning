@@ -27,10 +27,10 @@
   "dependencies": {
     "@node-lightning/bufio": "^0.22.1",
     "@node-lightning/checksum": "^0.22.1",
-    "@node-lightning/core": "^0.22.1",
-    "@node-lightning/crypto": "^0.22.1",
+    "@node-lightning/core": "^0.27.0",
+    "@node-lightning/crypto": "^0.27.0",
     "@node-lightning/logger": "^0.22.1",
-    "@node-lightning/noise": "^0.22.1"
+    "@node-lightning/noise": "^0.27.0"
   },
   "publishConfig": {
     "access": "public"
